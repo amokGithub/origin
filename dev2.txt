@@ -1,6 +1,4 @@
 ﻿dev2  modified by others
-<<<<<<< HEAD
 111111
-=======
 22222222
->>>>>>> 82d1415c6821e25f4a0b39bd2ec6de8bc1df0ced
+
